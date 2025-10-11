@@ -46,21 +46,21 @@ I enjoy building <b>end-to-end ML pipelines</b> — from data preprocessing to m
 
 <table align="center">
   <ul>
-  <li>🩺 <b><a href="https://github.com/sher0088/Skin-Cancer-Detection](https://github.com/SHER0088/skin-cancer-detection-ResNet-EfficientNet.git" target="_blank">Skin Cancer Detection using Deep Learning</a></b>  
+  <li>🩺 <b><a href="https://github.com/SHER0088/skin-cancer-detection-ResNet-EfficientNet" target="_blank">Skin Cancer Detection using Deep Learning Models - ResNet50 & EfficientNetB0</a></b>  
   Trained CNN and EfficientNet models to classify skin lesions with high accuracy.  
   <i>Tech Stack:</i> Python, TensorFlow, Keras, NumPy, Matplotlib</li>
 
-  <li>👁️ <b><a href="https://github.com/sher0088/Face-Recognition-System" target="_blank">Real-time Face Recognition System</a></b>  
+  <li>👁️ <b><a href="https://github.com/SHER0088/Event-Based-Video-Recorder-with-Flask-Viewer" target="_blank">Real-time Face Recognition System</a></b>  
   Built a Flask-based app using OpenCV and face_recognition for live video face identification.  
   <i>Tech Stack:</i> Python, OpenCV, Flask</li>
 
-  <li>🚖 <b><a href="https://github.com/sher0088/Himachali-Taxi-App" target="_blank">Himachali Taxi – Ride Booking App</a></b>  
+  <li>🚖 <b><a href="https://github.com/SHER0088/Himachali_Taxi" target="_blank">Himachali Taxi – Ride Booking App</a></b>  
   Location-based mobile app for taxi booking using Flutter and Node.js with MongoDB Atlas.  
   <i>Tech Stack:</i> Flutter, Node.js, Express.js, MongoDB, Supabase</li>
 
-  <li>🤖 <b><a href="https://github.com/sher0088/AI-Experiments" target="_blank">AI Experiments</a></b>  
-  Various small AI/ML experiments including NLP and computer vision models.  
-  <i>Tech Stack:</i> Python, TensorFlow, PyTorch, OpenCV</li>
+  <li>🤖 <b><a href="https://github.com/SHER0088/PassWord-Checker" target="_blank">PassWord Checkers</a></b>  
+  A Python script that checks if your password has ever been exposed in a data breach using the Have I Been Pwned (HIBP) API.  
+  <i>Tech Stack:</i> Python, REST API integration, SHA-1 hashing</li>
 </ul>
 </table>
 
