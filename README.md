@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayank Singh</h1>
+<h1 align="center">Hi 👋, I'm Mayank </h1>
 <h3 align="center">🤖 AI/ML Intern @ VEYA Technologies | MCA Graduate | Full-Stack Developer | Data Science Enthusiast</h3>
 
 <p align="center">🚀 Turning data into intelligence | AI/ML Enthusiast | Building smart solutions through code</p>
@@ -94,7 +94,7 @@ I enjoy building <b>end-to-end ML pipelines</b> — from data preprocessing to m
 
 <h3 align="left">📄 Resume</h3>
 <ul>
-  <li>📄 Resume: <a href="https://github.com/sher0088/sher0088/blob/main/Resume.pdf" target="_blank">Download PDF</a></li>
+  <li>📄 Resume: <a href="https://github.com/sher0088/sher0088/blob/main/MAYANK_CV.pdf" target="_blank">Download PDF</a></li>
 </ul>
 
 ---
