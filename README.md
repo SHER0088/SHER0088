@@ -47,42 +47,26 @@ I enjoy building <b>end-to-end ML pipelines</b> — from data preprocessing to m
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/sher0088/Skin-Cancer-Detection" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Skin-Cancer-Detection&theme=tokyonight" alt="Skin Cancer Detection" />
+      <a href="https://github.com/sher0088/Skin-Cancer-Detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Skin-Cancer-Detection&theme=tokyonight" />
       </a>
-      <br/>
-      <img src="https://img.shields.io/github/stars/sher0088/Skin-Cancer-Detection?style=social" />
-      <img src="https://img.shields.io/github/forks/sher0088/Skin-Cancer-Detection?style=social" />
-      <img src="https://img.shields.io/github/issues/sher0088/Skin-Cancer-Detection" />
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/sher0088/Face-Recognition-System" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Face-Recognition-System&theme=tokyonight" alt="Face Recognition System" />
+      <a href="https://github.com/sher0088/Face-Recognition-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Face-Recognition-System&theme=tokyonight" />
       </a>
-      <br/>
-      <img src="https://img.shields.io/github/stars/sher0088/Face-Recognition-System?style=social" />
-      <img src="https://img.shields.io/github/forks/sher0088/Face-Recognition-System?style=social" />
-      <img src="https://img.shields.io/github/issues/sher0088/Face-Recognition-System" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/sher0088/Himachali-Taxi-App" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Himachali-Taxi-App&theme=tokyonight" alt="Himachali Taxi App" />
+      <a href="https://github.com/sher0088/Himachali-Taxi-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Himachali-Taxi-App&theme=tokyonight" />
       </a>
-      <br/>
-      <img src="https://img.shields.io/github/stars/sher0088/Himachali-Taxi-App?style=social" />
-      <img src="https://img.shields.io/github/forks/sher0088/Himachali-Taxi-App?style=social" />
-      <img src="https://img.shields.io/github/issues/sher0088/Himachali-Taxi-App" />
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/sher0088/AI-Experiments" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=AI-Experiments&theme=tokyonight" alt="AI Experiments" />
+      <a href="https://github.com/sher0088/AI-Experiments">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=AI-Experiments&theme=tokyonight" />
       </a>
-      <br/>
-      <img src="https://img.shields.io/github/stars/sher0088/AI-Experiments?style=social" />
-      <img src="https://img.shields.io/github/forks/sher0088/AI-Experiments?style=social" />
-      <img src="https://img.shields.io/github/issues/sher0088/AI-Experiments" />
     </td>
   </tr>
 </table>
@@ -91,10 +75,16 @@ I enjoy building <b>end-to-end ML pipelines</b> — from data preprocessing to m
 
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="center">
-  <b>AI/ML:</b> Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, NLP <br/>
-  <b>Web & APIs:</b> Flask, FastAPI, Node.js, Express.js, MongoDB <br/>
-  <b>Mobile Development:</b> Flutter <br/>
-  <b>Other Tools:</b> Git, VS Code, Google Colab, Jupyter Notebook, Docker
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
