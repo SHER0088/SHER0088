@@ -45,30 +45,23 @@ I enjoy building <b>end-to-end ML pipelines</b> — from data preprocessing to m
 <h3 align="center">🧩 Featured AI/ML Projects</h3>
 
 <table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/sher0088/Skin-Cancer-Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Skin-Cancer-Detection&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/sher0088/Face-Recognition-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Face-Recognition-System&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/sher0088/Himachali-Taxi-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Himachali-Taxi-App&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/sher0088/AI-Experiments">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=AI-Experiments&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
+  <ul>
+  <li>🩺 <b><a href="[https://github.com/sher0088/Skin-Cancer-Detection](https://github.com/SHER0088/skin-cancer-detection-ResNet-EfficientNet.git)" target="_blank">Skin Cancer Detection using Deep Learning</a></b>  
+  Trained CNN and EfficientNet models to classify skin lesions with high accuracy.  
+  <i>Tech Stack:</i> Python, TensorFlow, Keras, NumPy, Matplotlib</li>
+
+  <li>👁️ <b><a href="https://github.com/sher0088/Face-Recognition-System" target="_blank">Real-time Face Recognition System</a></b>  
+  Built a Flask-based app using OpenCV and face_recognition for live video face identification.  
+  <i>Tech Stack:</i> Python, OpenCV, Flask</li>
+
+  <li>🚖 <b><a href="https://github.com/sher0088/Himachali-Taxi-App" target="_blank">Himachali Taxi – Ride Booking App</a></b>  
+  Location-based mobile app for taxi booking using Flutter and Node.js with MongoDB Atlas.  
+  <i>Tech Stack:</i> Flutter, Node.js, Express.js, MongoDB, Supabase</li>
+
+  <li>🤖 <b><a href="https://github.com/sher0088/AI-Experiments" target="_blank">AI Experiments</a></b>  
+  Various small AI/ML experiments including NLP and computer vision models.  
+  <i>Tech Stack:</i> Python, TensorFlow, PyTorch, OpenCV</li>
+</ul>
 </table>
 
 ---
