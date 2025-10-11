@@ -27,7 +27,7 @@
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
   <a href="https://x.com/_singh_mayank00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_singh_mayank00" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mayank-singh-574344197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-singh" height="30" width="40" /></a>
+  <a href="linkedin.com/in/mayank-singh-574344197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-singh" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/sherr0099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sherr0099" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_singh_mayank00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_singh_mayank00" height="30" width="40" /></a>
 </p>
