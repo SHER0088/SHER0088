@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
-<h3 align="center">AI/ML Intern @ VEYA Technologies | MCA Graduate | Full-Stack & AI Enthusiast</h3>
+<h3 align="center">🤖 AI/ML Intern @ VEYA Technologies | MCA Graduate | Full-Stack Developer | Data Science Enthusiast</h3>
+
+<p align="center">🚀 Turning data into intelligence | AI/ML Enthusiast | Building smart solutions through code</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sher0088&label=Profile%20views&color=0e75b6&style=flat" alt="sher0088" />
@@ -10,15 +12,16 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  I'm a passionate <b>MCA Graduate</b> currently working as an <b>AI/ML Intern at VEYA Technologies</b>.  
-  I love solving real-world problems through code and combining <b>Machine Learning</b> with <b>Full-Stack Development</b> to create impactful digital solutions.
+I am an <b>MCA Graduate</b> currently working as an <b>AI/ML Intern at VEYA Technologies</b>.<br/>
+I specialize in applying <b>Machine Learning, Deep Learning, NLP</b>, and <b>Computer Vision</b> to solve real-world problems.<br/>
+I enjoy building <b>end-to-end ML pipelines</b> — from data preprocessing to model deployment — and integrating AI into full-stack applications.
 </p>
 
 <ul>
-  <li>💡 Skilled in <b>Python, Flutter, Node.js, Express.js, MongoDB,</b> and <b>TensorFlow/PyTorch</b></li>
-  <li>📱 Developed <b>Himachali Taxi App</b> – a location-based ride booking system</li>
-  <li>🧠 Built <b>Deep Learning Models</b> for Skin Cancer Detection using CNN architectures</li>
-  <li>🌱 Currently exploring <b>Data Engineering</b> and <b>MLOps</b> for scalable AI systems</li>
+  <li>🧠 Experienced with <b>Supervised & Unsupervised Learning, CNNs, Transfer Learning, NLP, and Data Analysis</b></li>
+  <li>⚙️ Hands-on with <b>Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy</b> for ML/AI development & deployment (Flask, FastAPI)</li>
+  <li>📱 Skilled in <b>Flutter, Node.js, Express.js, MongoDB</b> for building AI-powered full-stack applications</li>
+  <li>🌱 Currently exploring <b>Generative AI, Transformers, MLOps, Docker</b> and advanced data visualization</li>
   <li>📫 Reach me at: <b><a href="mailto:mkjaj18@gmail.com">mkjaj18@gmail.com</a></b></li>
 </ul>
 
@@ -37,24 +40,79 @@
   </a>
 </p>
 
+---
+
+<h3 align="center">🧩 Featured AI/ML Projects</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sher0088/Skin-Cancer-Detection" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Skin-Cancer-Detection&theme=tokyonight" alt="Skin Cancer Detection" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/sher0088/Skin-Cancer-Detection?style=social" />
+      <img src="https://img.shields.io/github/forks/sher0088/Skin-Cancer-Detection?style=social" />
+      <img src="https://img.shields.io/github/issues/sher0088/Skin-Cancer-Detection" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sher0088/Face-Recognition-System" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Face-Recognition-System&theme=tokyonight" alt="Face Recognition System" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/sher0088/Face-Recognition-System?style=social" />
+      <img src="https://img.shields.io/github/forks/sher0088/Face-Recognition-System?style=social" />
+      <img src="https://img.shields.io/github/issues/sher0088/Face-Recognition-System" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sher0088/Himachali-Taxi-App" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=Himachali-Taxi-App&theme=tokyonight" alt="Himachali Taxi App" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/sher0088/Himachali-Taxi-App?style=social" />
+      <img src="https://img.shields.io/github/forks/sher0088/Himachali-Taxi-App?style=social" />
+      <img src="https://img.shields.io/github/issues/sher0088/Himachali-Taxi-App" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sher0088/AI-Experiments" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sher0088&repo=AI-Experiments&theme=tokyonight" alt="AI Experiments" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/sher0088/AI-Experiments?style=social" />
+      <img src="https://img.shields.io/github/forks/sher0088/AI-Experiments?style=social" />
+      <img src="https://img.shields.io/github/issues/sher0088/AI-Experiments" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Tech Stack</h3>
 <p align="center">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <b>AI/ML:</b> Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, NLP <br/>
+  <b>Web & APIs:</b> Flask, FastAPI, Node.js, Express.js, MongoDB <br/>
+  <b>Mobile Development:</b> Flutter <br/>
+  <b>Other Tools:</b> Git, VS Code, Google Colab, Jupyter Notebook, Docker
 </p>
+
+---
+
+<h3 align="left">🧩 Currently Learning</h3>
+<ul>
+  <li>Generative AI & Transformer Models (BERT, GPT)</li>
+  <li>MLOps & Model Deployment (Docker, FastAPI)</li>
+  <li>Advanced Data Visualization (Matplotlib, Seaborn, Plotly)</li>
+  <li>Reinforcement Learning Basics</li>
+</ul>
+
+---
+
+<h3 align="left">📄 Resume</h3>
+<ul>
+  <li>📄 Resume: <a href="https://github.com/sher0088/sher0088/blob/main/Resume.pdf" target="_blank">Download PDF</a></li>
+</ul>
 
 ---
 
@@ -74,14 +132,5 @@
 
 ---
 
-<h3 align="center">🏆 Achievements</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sher0088&theme=onedark&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-<h3 align="center">✨ Fun Fact</h3>
-
-<p align="center"><i>"The best way to predict the future is to create it — one commit at a time."</i></p>
+<h3 align="center">✨ Quote I Follow</h3>
+<p align="center"><i>"AI is not just about building smarter machines — it’s about amplifying human potential."</i></p>
