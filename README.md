@@ -46,7 +46,7 @@ I enjoy building <b>end-to-end ML pipelines</b> — from data preprocessing to m
 
 <table align="center">
   <ul>
-  <li>🩺 <b><a href="[https://github.com/sher0088/Skin-Cancer-Detection](https://github.com/SHER0088/skin-cancer-detection-ResNet-EfficientNet.git)" target="_blank">Skin Cancer Detection using Deep Learning</a></b>  
+  <li>🩺 <b><a href="https://github.com/sher0088/Skin-Cancer-Detection](https://github.com/SHER0088/skin-cancer-detection-ResNet-EfficientNet.git" target="_blank">Skin Cancer Detection using Deep Learning</a></b>  
   Trained CNN and EfficientNet models to classify skin lesions with high accuracy.  
   <i>Tech Stack:</i> Python, TensorFlow, Keras, NumPy, Matplotlib</li>
 
